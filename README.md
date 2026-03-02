@@ -1,0 +1,292 @@
+# 📘 SEMESTER STRUCTURE (12 MEETINGS)
+
+**Context:**
+This is the **second of three semesters**.
+During this semester students are expected to:
+
+* Complete the **entire practical (coding) part** of the thesis
+* Begin writing technical and methodological chapters
+* Conduct a proper literature review
+* Prepare a solid foundation for the final semester (editing + defense)
+
+Each meeting includes a **mandatory assignment** evaluated by the supervisor.
+
+---
+
+# 🔹 BLOCK I — FOUNDATION: PROBLEM, LITERATURE, DESIGN (Meetings 1–3)
+
+---
+
+## **Meeting 1 — Defining the Research Problem and Research Questions**
+
+**Objective:** Clearly define the scientific and practical value of the project.
+
+### **Assignment 1**
+
+Formulate:
+
+* Research problem (1–2 concise statements)
+* Research question
+* Hypothesis (if applicable)
+* Measurable success criteria (e.g., F1 > baseline, RMSE improvement by X%)
+
+**Description:**
+The problem must be:
+
+* Measurable
+* Grounded in literature
+* Realistically achievable within one semester
+
+---
+
+## **Meeting 2 — Systematic Literature Review**
+
+**Objective:** Learn how to conduct a rigorous literature review.
+
+### **Assignment 2**
+
+Review at least **10–15 sources**, including:
+
+* 5 scientific papers (IEEE, ACM, Springer, arXiv)
+* 3–5 industry solutions
+* 2 benchmark studies or reports
+
+Prepare a comparison table including:
+
+* Authors / Year
+* Problem
+* Dataset
+* Method
+* Metrics
+* Results
+* Limitations
+
+**Description:**
+This will form the basis of the “Literature Review” chapter.
+Do not summarize — compare and analyze.
+
+---
+
+## **Meeting 3 — Project Architecture and Experimental Plan**
+
+**Objective:** Design the practical part as a structured research project.
+
+### **Assignment 3**
+
+Prepare:
+
+* A pipeline diagram (data → preprocessing → model → evaluation)
+* Experimental design (what is compared and why)
+* Dataset description (source, size, bias, limitations)
+* Implementation timeline
+
+**Requirements:**
+
+* At least one baseline model
+* Minimum two comparative variants
+* Clearly defined evaluation methodology
+
+---
+
+# 🔹 BLOCK II — ENGINEERING AND IMPLEMENTATION (Meetings 4–8)
+
+---
+
+## **Meeting 4 — Reproducibility and Code Organization**
+
+**Objective:** Work at a professional engineering standard.
+
+### **Assignment 4**
+
+Prepare:
+
+* Structured repository (data / src / models / notebooks / reports)
+* requirements.txt or environment.yml
+* README file (project description and execution instructions)
+* Version control (Git)
+
+**Code must be:**
+
+* Modular
+* Reproducible
+* Runnable by the supervisor
+
+---
+
+## **Meeting 5 — Data Preparation and Exploratory Data Analysis (EDA)**
+
+**Objective:** Develop a deep understanding of the dataset.
+
+### **Assignment 5**
+
+Perform:
+
+* Missing data analysis
+* Distribution analysis
+* Correlation analysis
+* Outlier detection
+* Data visualizations
+
+Prepare a short written subsection for the thesis.
+
+**Important:**
+Not only plots — interpretation is required.
+
+---
+
+## **Meeting 6 — Feature Engineering and Preprocessing**
+
+**Objective:** Proper preparation of data for modeling.
+
+### **Assignment 6**
+
+Implement:
+
+* Data cleaning
+* Scaling / normalization
+* Encoding
+* Feature selection or feature extraction
+
+Document:
+
+* Why each decision was made
+* Alternative approaches considered
+
+---
+
+## **Meeting 7 — Baseline Models**
+
+**Objective:** Establish a reference point.
+
+### **Assignment 7**
+
+Implement:
+
+* A simple model (e.g., linear/logistic regression)
+* One classical ML model (e.g., Random Forest, XGBoost)
+* Cross-validation
+* Performance report with appropriate metrics
+
+**Note:**
+A baseline is mandatory. No comparison → no scientific value.
+
+---
+
+## **Meeting 8 — Target Model and Optimization**
+
+**Objective:** Conduct the core experimental research.
+
+### **Assignment 8**
+
+Implement:
+
+* Main model (e.g., neural network, transformer, ensemble)
+* Hyperparameter tuning
+* Overfitting analysis
+* Comparative performance analysis vs. baseline
+
+Present results in:
+
+* Tables
+* Clear visualizations
+
+---
+
+# 🔹 BLOCK III — ANALYSIS, WRITING, AND REVIEW (Meetings 9–12)
+
+---
+
+## **Meeting 9 — Results Analysis and Interpretation**
+
+**Objective:** Learn how to derive scientific conclusions.
+
+### **Assignment 9**
+
+Prepare:
+
+* Comparative performance table
+* Error analysis
+* Model interpretability analysis (e.g., SHAP, feature importance)
+* Conclusions answering the research question
+
+Analysis must directly relate to the hypothesis.
+
+---
+
+## **Meeting 10 — Writing the Methodology and Technical Chapters**
+
+**Objective:** Begin structured thesis writing.
+
+### **Assignment 10**
+
+Write:
+
+* Methodology chapter
+* Pipeline description
+* Environment description (hardware, libraries)
+* Dataset description
+
+**Code should be described by:**
+
+* Design decisions
+* Architecture explanation
+* Justification of choices
+
+Do not paste code unnecessarily.
+
+---
+
+## **Meeting 11 — Full Practical Part Review**
+
+**Objective:** Evaluate completeness and coherence.
+
+### **Assignment 11**
+
+Submit:
+
+* Repository
+* Complete experimental results
+* Draft covering 50–70% of technical chapters
+
+We evaluate:
+
+* Logical consistency
+* Alignment with research problem
+* Adequacy of experiments
+
+---
+
+## **Meeting 12 — Conclusions, Limitations, Future Work**
+
+**Objective:** Finalize the practical part.
+
+### **Assignment 12**
+
+Write:
+
+* Summary of results
+* Direct answer to the research question
+* Project limitations
+* Future research directions
+* Checklist of remaining work for Semester III
+
+---
+
+# 📊 EXPECTED OUTCOME AFTER SEMESTER II
+
+By the end of this semester, the student should have:
+
+* ✅ Fully implemented and tested practical solution
+* ✅ Complete experimental results
+* ✅ Written methodology and results chapters (60–70% of thesis)
+* ✅ Structured literature review
+* ✅ Clean, reproducible repository
+
+---
+
+# 🎓 Seminar Philosophy
+
+* The thesis must be **research-engineering oriented**, not tutorial-style.
+* Every decision must be justified.
+* Every figure must be interpreted.
+* Every model must be compared.
