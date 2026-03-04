@@ -17,7 +17,7 @@ Each meeting includes a **mandatory assignment** evaluated by the supervisor.
 
 ---
 
-## **Meeting 1 — Defining the Research Problem and Research Questions**
+## **Assignment 1 — Defining the Research Problem and Research Questions**
 
 **Objective:** Clearly define the scientific and practical value of the project.
 
@@ -41,7 +41,7 @@ The problem must be:
 
 ---
 
-## **Meeting 2 — Systematic Literature Review**
+## **Assignment 2 — Systematic Literature Review**
 
 **Objective:** Learn how to conduct a rigorous literature review.
 
@@ -71,7 +71,7 @@ Do not summarize — compare and analyze.
 
 ---
 
-## **Meeting 3 — Project Architecture and Experimental Plan**
+## **Assignment 3 — Project Architecture and Experimental Plan**
 
 **Objective:** Design the practical part as a structured research project.
 
@@ -98,7 +98,7 @@ Prepare:
 
 ---
 
-## **Meeting 4 — Reproducibility and Code Organization**
+## **Assignment 4 — Reproducibility and Code Organization**
 
 **Objective:** Work at a professional engineering standard.
 
@@ -121,7 +121,7 @@ Prepare:
 
 ---
 
-## **Meeting 5 — Data Preparation and Exploratory Data Analysis (EDA)**
+## **Assignment 5 — Data Preparation and Exploratory Data Analysis (EDA)**
 
 **Objective:** Develop a deep understanding of the dataset.
 
@@ -144,7 +144,7 @@ Not only plots — interpretation is required.
 
 ---
 
-## **Meeting 6 — Feature Engineering and Preprocessing**
+## **Assignment 6 — Feature Engineering and Preprocessing**
 
 **Objective:** Proper preparation of data for modeling.
 
@@ -166,7 +166,7 @@ Document:
 
 ---
 
-## **Meeting 7 — Baseline Models**
+## **Assignment 7 — Baseline Models**
 
 **Objective:** Establish a reference point.
 
@@ -186,7 +186,7 @@ A baseline is mandatory. No comparison → no scientific value.
 
 ---
 
-## **Meeting 8 — Target Model and Optimization**
+## **Assignment 8 — Target Model and Optimization**
 
 **Objective:** Conduct the core experimental research.
 
@@ -212,7 +212,7 @@ Present results in:
 
 ---
 
-## **Meeting 9 — Results Analysis and Interpretation**
+## **Assignment 9 — Results Analysis and Interpretation**
 
 **Objective:** Learn how to derive scientific conclusions.
 
@@ -231,7 +231,7 @@ Analysis must directly relate to the hypothesis.
 
 ---
 
-## **Meeting 10 — Writing the Methodology and Technical Chapters**
+## **Assignment 10 — Writing the Methodology and Technical Chapters**
 
 **Objective:** Begin structured thesis writing.
 
@@ -256,7 +256,7 @@ Do not paste code unnecessarily.
 
 ---
 
-## **Meeting 11 — Full Practical Part Review**
+## **Assignment 11 — Full Practical Part Review**
 
 **Objective:** Evaluate completeness and coherence.
 
@@ -278,7 +278,7 @@ We evaluate:
 
 ---
 
-## **Meeting 12 — Conclusions, Limitations, Future Work**
+## **Assignment 12 — Conclusions, Limitations, Future Work**
 
 **Objective:** Finalize the practical part.
 
