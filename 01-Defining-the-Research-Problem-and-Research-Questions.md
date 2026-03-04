@@ -1,4 +1,4 @@
-# Assignment 1 — Formalization of the Research Problem
+# Assignment 1 — Defining the Research Problem and Research Questions
 
 ## 1. Objective of the Assignment
 

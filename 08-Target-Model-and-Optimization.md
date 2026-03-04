@@ -1,4 +1,4 @@
-# Assignment 8 — Implementation, Optimization, and Comparative Evaluation of the Target Model
+# Assignment 8 — Target Model and Optimization
 
 ## 1. Objective of the Assignment
 

@@ -1,4 +1,4 @@
-# Assignment 5 — Systematic Data Understanding and Analytical Characterization
+# Assignment 5 — Data Preparation and Exploratory Data Analysis (EDA)
 
 ## 1. Objective of the Assignment
 

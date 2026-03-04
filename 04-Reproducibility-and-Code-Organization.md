@@ -1,4 +1,4 @@
-# Assignment 4 — Implementation Environment, Code Organization, and Reproducibility Protocol
+# Assignment 4 — Reproducibility and Code Organization
 
 ## 1. Objective of the Assignment
 

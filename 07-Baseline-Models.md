@@ -1,4 +1,4 @@
-# Assignment 7 — Implementation and Evaluation of Baseline Models
+# Assignment 7 — Baseline Models
 
 ## 1. Objective of the Assignment
 

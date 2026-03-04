@@ -1,4 +1,4 @@
-# Assignment 2 — Analytical Literature Review and Positioning of the Research Problem
+# Assignment 2 — Systematic Literature Review
 
 ## 1. Objective of the Assignment
 

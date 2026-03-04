@@ -1,4 +1,4 @@
-# Assignment 12 — Synthesis of Findings and Formal Closure of the Practical Component
+# Assignment 12 — Conclusions, Limitations, Future Work
 
 ## 1. Objective of the Assignment
 

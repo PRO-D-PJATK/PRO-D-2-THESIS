@@ -1,4 +1,4 @@
-# Assignment 9 — Analytical Synthesis and Critical Interpretation of Experimental Results
+# Assignment 9 — Results Analysis and Interpretation
 
 ## 1. Objective of the Assignment
 

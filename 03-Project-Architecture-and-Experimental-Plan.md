@@ -1,4 +1,4 @@
-# Assignment 3 — Formal Design of the Experimental and Implementation Framework
+# Assignment 3 — Project Architecture and Experimental Plan
 
 ## 1. Objective of the Assignment
 

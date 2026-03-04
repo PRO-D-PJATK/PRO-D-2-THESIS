@@ -1,4 +1,4 @@
-# Assignment 6 — Formalization and Justification of Data Transformation Procedures
+# Assignment 6 — Feature Engineering and Preprocessing
 
 ## 1. Objective of the Assignment
 

@@ -1,4 +1,4 @@
-# Assignment 10 — Formalization of Methodology and Technical Implementation in Thesis Form
+# Assignment 10 — Writing the Methodology and Technical Chapters
 
 ## 1. Objective of the Assignment
 

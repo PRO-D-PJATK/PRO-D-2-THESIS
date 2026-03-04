@@ -1,4 +1,4 @@
-# Assignment 11 — Structural Coherence, Completeness, and Scientific Consistency Review
+# Assignment 11 — Full Practical Part Review
 
 ## 1. Objective of the Assignment
 
