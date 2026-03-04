@@ -37,6 +37,8 @@ The problem must be:
 * Grounded in literature
 * Realistically achievable within one semester
 
+→ [**Assignment 1 — Full details**](01-Defining-the-Research-Problem-and-Research-Questions.md)
+
 ---
 
 ## **Meeting 2 — Systematic Literature Review**
@@ -65,6 +67,8 @@ Prepare a comparison table including:
 This will form the basis of the “Literature Review” chapter.
 Do not summarize — compare and analyze.
 
+→ [**Assignment 2 — Full details**](02-Systematic-Literature-Review.md)
+
 ---
 
 ## **Meeting 3 — Project Architecture and Experimental Plan**
@@ -85,6 +89,8 @@ Prepare:
 * At least one baseline model
 * Minimum two comparative variants
 * Clearly defined evaluation methodology
+
+→ [**Assignment 3 — Full details**](03-Project-Architecture-and-Experimental-Plan.md)
 
 ---
 
@@ -111,6 +117,8 @@ Prepare:
 * Reproducible
 * Runnable by the supervisor
 
+→ [**Assignment 4 — Full details**](04-Reproducibility-and-Code-Organization.md)
+
 ---
 
 ## **Meeting 5 — Data Preparation and Exploratory Data Analysis (EDA)**
@@ -132,6 +140,8 @@ Prepare a short written subsection for the thesis.
 **Important:**
 Not only plots — interpretation is required.
 
+→ [**Assignment 5 — Full details**](05-Data-Preparation-and-Exploratory-Data-Analysis.md)
+
 ---
 
 ## **Meeting 6 — Feature Engineering and Preprocessing**
@@ -152,6 +162,8 @@ Document:
 * Why each decision was made
 * Alternative approaches considered
 
+→ [**Assignment 6 — Full details**](06-Feature-Engineering-and-Preprocessing.md)
+
 ---
 
 ## **Meeting 7 — Baseline Models**
@@ -169,6 +181,8 @@ Implement:
 
 **Note:**
 A baseline is mandatory. No comparison → no scientific value.
+
+→ [**Assignment 7 — Full details**](07-Baseline-Models.md)
 
 ---
 
@@ -190,6 +204,8 @@ Present results in:
 * Tables
 * Clear visualizations
 
+→ [**Assignment 8 — Full details**](08-Target-Model-and-Optimization.md)
+
 ---
 
 # 🔹 BLOCK III — ANALYSIS, WRITING, AND REVIEW (Meetings 9–12)
@@ -210,6 +226,8 @@ Prepare:
 * Conclusions answering the research question
 
 Analysis must directly relate to the hypothesis.
+
+→ [**Assignment 9 — Full details**](09-Results-Analysis-and-Interpretation.md)
 
 ---
 
@@ -234,6 +252,8 @@ Write:
 
 Do not paste code unnecessarily.
 
+→ [**Assignment 10 — Full details**](10-Writing-the-Methodology-and-Technical-Chapters.md)
+
 ---
 
 ## **Meeting 11 — Full Practical Part Review**
@@ -254,6 +274,8 @@ We evaluate:
 * Alignment with research problem
 * Adequacy of experiments
 
+→ [**Assignment 11 — Full details**](11-Full-Practical-Part-Review.md)
+
 ---
 
 ## **Meeting 12 — Conclusions, Limitations, Future Work**
@@ -269,6 +291,8 @@ Write:
 * Project limitations
 * Future research directions
 * Checklist of remaining work for Semester III
+
+→ [**Assignment 12 — Full details**](12-Conclusions-Limitations-Future-Work.md)
 
 ---
 
