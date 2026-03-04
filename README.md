@@ -21,8 +21,6 @@ Each meeting includes a **mandatory assignment** evaluated by the supervisor.
 
 **Objective:** Clearly define the scientific and practical value of the project.
 
-### **Assignment 1**
-
 Formulate:
 
 * Research problem (1–2 concise statements)
@@ -44,8 +42,6 @@ The problem must be:
 ## **Assignment 2 — Systematic Literature Review**
 
 **Objective:** Learn how to conduct a rigorous literature review.
-
-### **Assignment 2**
 
 Review at least **10–15 sources**, including:
 
@@ -75,8 +71,6 @@ Do not summarize — compare and analyze.
 
 **Objective:** Design the practical part as a structured research project.
 
-### **Assignment 3**
-
 Prepare:
 
 * A pipeline diagram (data → preprocessing → model → evaluation)
@@ -102,8 +96,6 @@ Prepare:
 
 **Objective:** Work at a professional engineering standard.
 
-### **Assignment 4**
-
 Prepare:
 
 * Structured repository (data / src / models / notebooks / reports)
@@ -124,8 +116,6 @@ Prepare:
 ## **Assignment 5 — Data Preparation and Exploratory Data Analysis (EDA)**
 
 **Objective:** Develop a deep understanding of the dataset.
-
-### **Assignment 5**
 
 Perform:
 
@@ -148,8 +138,6 @@ Not only plots — interpretation is required.
 
 **Objective:** Proper preparation of data for modeling.
 
-### **Assignment 6**
-
 Implement:
 
 * Data cleaning
@@ -170,8 +158,6 @@ Document:
 
 **Objective:** Establish a reference point.
 
-### **Assignment 7**
-
 Implement:
 
 * A simple model (e.g., linear/logistic regression)
@@ -189,8 +175,6 @@ A baseline is mandatory. No comparison → no scientific value.
 ## **Assignment 8 — Target Model and Optimization**
 
 **Objective:** Conduct the core experimental research.
-
-### **Assignment 8**
 
 Implement:
 
@@ -216,8 +200,6 @@ Present results in:
 
 **Objective:** Learn how to derive scientific conclusions.
 
-### **Assignment 9**
-
 Prepare:
 
 * Comparative performance table
@@ -234,8 +216,6 @@ Analysis must directly relate to the hypothesis.
 ## **Assignment 10 — Writing the Methodology and Technical Chapters**
 
 **Objective:** Begin structured thesis writing.
-
-### **Assignment 10**
 
 Write:
 
@@ -260,8 +240,6 @@ Do not paste code unnecessarily.
 
 **Objective:** Evaluate completeness and coherence.
 
-### **Assignment 11**
-
 Submit:
 
 * Repository
@@ -281,8 +259,6 @@ We evaluate:
 ## **Assignment 12 — Conclusions, Limitations, Future Work**
 
 **Objective:** Finalize the practical part.
-
-### **Assignment 12**
 
 Write:
 
